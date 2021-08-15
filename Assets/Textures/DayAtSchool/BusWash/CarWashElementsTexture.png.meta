@@ -1,0 +1,1181 @@
+fileFormatVersion: 2
+guid: c9dd19210367c61478ee5c94c94b2f95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StainBlue
+  - first:
+      213: 21300002
+    second: StainYellow
+  - first:
+      213: 21300004
+    second: StainLightBlue
+  - first:
+      213: 21300006
+    second: StainPurple
+  - first:
+      213: 21300008
+    second: StainPink
+  - first:
+      213: 21300010
+    second: StainGreen
+  - first:
+      213: 21300012
+    second: WatherSprite
+  - first:
+      213: 21300014
+    second: CarWashElementsTexture_0
+  - first:
+      213: 21300016
+    second: CarWashElementsTexture_1
+  - first:
+      213: 21300018
+    second: CarWashElementsTexture_2
+  - first:
+      213: 21300020
+    second: CarWashElementsTexture_3
+  - first:
+      213: 21300022
+    second: CarWashElementsTexture_4
+  - first:
+      213: 21300024
+    second: CarWashElementsTexture_5
+  - first:
+      213: 21300026
+    second: CarWashElementsTexture_6
+  - first:
+      213: 21300028
+    second: CarWashElementsTexture_7
+  - first:
+      213: 21300030
+    second: CarWashElementsTexture_8
+  - first:
+      213: 21300032
+    second: CarWashElementsTexture_9
+  - first:
+      213: 21300034
+    second: CarWashElementsTexture_10
+  - first:
+      213: 21300036
+    second: CarWashElementsTexture_11
+  - first:
+      213: 21300038
+    second: CarWashElementsTexture_12
+  - first:
+      213: 21300040
+    second: CarWashElementsTexture_13
+  - first:
+      213: 21300042
+    second: CarWashElementsTexture_14
+  - first:
+      213: 21300044
+    second: CarWashElementsTexture_15
+  - first:
+      213: 21300046
+    second: CarWashElementsTexture_16
+  - first:
+      213: 21300048
+    second: CarWashElementsTexture_17
+  - first:
+      213: 21300050
+    second: CarWashElementsTexture_25
+  - first:
+      213: 21300052
+    second: CarWashElementsTexture_26
+  - first:
+      213: 21300054
+    second: CarWashElementsTexture_27
+  - first:
+      213: 21300056
+    second: CarWashElementsTexture_28
+  - first:
+      213: 21300058
+    second: CarWashElementsTexture_29
+  - first:
+      213: 21300060
+    second: CarWashElementsTexture_30
+  - first:
+      213: 21300062
+    second: CarWashElementsTexture_31
+  - first:
+      213: 21300064
+    second: CarWashElementsTexture_32
+  - first:
+      213: 21300066
+    second: CarWashElementsTexture_33
+  - first:
+      213: 21300068
+    second: CarWashElementsTexture_34
+  - first:
+      213: 21300070
+    second: CarWashElementsTexture_35
+  - first:
+      213: 21300072
+    second: CarWashElementsTexture_36
+  - first:
+      213: 21300074
+    second: CarWashElementsTexture_37
+  - first:
+      213: 21300076
+    second: CarWashElementsTexture_38
+  - first:
+      213: 21300078
+    second: CarWashElementsTexture_39
+  - first:
+      213: 21300080
+    second: CarWashElementsTexture_40
+  - first:
+      213: 21300082
+    second: CarWashElementsTexture_41
+  - first:
+      213: 21300084
+    second: CarWashElementsTexture_43
+  - first:
+      213: 21300086
+    second: CarWashElementsTexture_44
+  - first:
+      213: 21300088
+    second: CarWashElementsTexture_45
+  - first:
+      213: 21300090
+    second: CarWashElementsTexture_46
+  - first:
+      213: 21300092
+    second: CarWashElementsTexture_47
+  - first:
+      213: 21300094
+    second: CarWashElementsTexture_48
+  - first:
+      213: 21300096
+    second: CarWashElementsTexture_49
+  - first:
+      213: 21300098
+    second: CarWashElementsTexture_50
+  - first:
+      213: 21300100
+    second: CarWashElementsTexture_51
+  - first:
+      213: 21300102
+    second: CarWashElementsTexture_52
+  - first:
+      213: 21300104
+    second: CarWashElementsTexture_53
+  - first:
+      213: 21300106
+    second: CarWashElementsTexture_54
+  - first:
+      213: 21300108
+    second: CarWashElementsTexture_56
+  - first:
+      213: 21300110
+    second: CarWashElementsTexture_57
+  - first:
+      213: 21300112
+    second: CarWashElementsTexture_58
+  - first:
+      213: 21300114
+    second: CarWashElementsTexture_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarWashElementsTexture_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 943
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05e94035c31b0f45978b0b434dfd171
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 927
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9506883e3203d914ab2d9123ee21e934
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 925
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9286b4710c4d59449a2e4c663cf8113
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 957
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34530494c8e3294a93e9c5e9f04c362
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 957
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b586c311b1893674ebd85e8b88b19920
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 947
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e959a4c37eb6ba40a63e1341222e7cd
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 958
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7905b98a647d2248ac51e13afdc9dd5
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_9
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 961
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6669172ad0376248b4a4373eef6e1da
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_10
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 964
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29602aa32cc678940ab28053c19a68ee
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_11
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 959
+        width: 118
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8b2b6ad0580564093c9ab4648289b4
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 765
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c53cebce664148a56e9c3bc3b5d1f
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 517
+        width: 630
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d42aee24adc28459100a3b64066716
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 581
+        width: 183
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc04dbda68025664c9186d3a08edc786
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_28
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 579
+        width: 175
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dc2c9217ecf6545be8e88875e9634b
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 168
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fcfd0bd20757043a119f8f658e8525
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 344
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc9ce2576619e4daba14bb1c1410b1
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 358
+        width: 114
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0797e1bfd44104e9d403cc7bdd415a
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_32
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 432
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcb9e390fe08384e8a1ceff5a631c07
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_33
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 442
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05336f6c79a34aa418307b444e229a01
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_34
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 491
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63dc92deb66fbc478cc13487e58a8a9
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_35
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 501
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0e148872b839247aca236a5f790590
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_36
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 484
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf287278404b14aae1d681a8644da6
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_37
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 494
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e53533773697049aa02ae69341bbb4
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_38
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 439
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b39677780df8d43b25165b2ccb73e5
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_39
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 433
+        width: 89
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d689ec187394e0479e020644aeae78e
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_40
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 435
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65727e06e475434180671d61c9282b4
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_41
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 344
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b24ebda8d975443b38f8575be26277
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 175
+        width: 157
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0123cfd34ae94d9d1f0ac71947689
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 175
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5667e09905f4c4c8953e1fd3c07117
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 182
+        width: 112
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9786f61aede823045827b7a5935b3811
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 261
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c65f78cf842f9b43a5be7f347292363
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_47
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 217
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399a072b413f24a4a87912e033bace07
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_48
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 197
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd26a9969b59954681419e8c08b9d9c
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 157
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d640b8ab8d9a479d46cd563259199
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_50
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f8d82e10a49784699505400f2bbd55
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_51
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 8
+        width: 113
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06f12ebde6ceb84eb7c152ef5455157
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_52
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 115
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce5985599963054e8b881cb5ddb525b
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_53
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 33
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb14912d6b315624bb57245b7340f2f9
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_54
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 7
+        width: 108
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c50b44d9d822040811731e9771bd8e
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_56
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 770
+        width: 194
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a44bb7292c7a2c4ab5d11221c43010a
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_57
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 20
+        width: 206
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325393c72040f474f90d5817cd2a5db1
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_58
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 5
+        width: 196
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e81baffe6a9d948adaad154dbfc263
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWashElementsTexture_42
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 219
+        width: 189
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085269747ea67624d9489087b17dff59
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

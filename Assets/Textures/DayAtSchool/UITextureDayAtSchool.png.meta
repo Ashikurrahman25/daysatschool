@@ -1,0 +1,1868 @@
+fileFormatVersion: 2
+guid: 1edc7bef3ed8e274299da7004777a4a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UITextureDayAtSchool_0
+  - first:
+      213: 21300002
+    second: UITextureDayAtSchool_1
+  - first:
+      213: 21300004
+    second: UITextureDayAtSchool_2
+  - first:
+      213: 21300006
+    second: UITextureDayAtSchool_3
+  - first:
+      213: 21300008
+    second: UITextureDayAtSchool_4
+  - first:
+      213: 21300010
+    second: UITextureDayAtSchool_5
+  - first:
+      213: 21300012
+    second: UITextureDayAtSchool_6
+  - first:
+      213: 21300014
+    second: UITextureDayAtSchool_7
+  - first:
+      213: 21300016
+    second: UITextureDayAtSchool_8
+  - first:
+      213: 21300018
+    second: UITextureDayAtSchool_9
+  - first:
+      213: 21300020
+    second: UITextureDayAtSchool_10
+  - first:
+      213: 21300022
+    second: UITextureDayAtSchool_11
+  - first:
+      213: 21300024
+    second: UITextureDayAtSchool_12
+  - first:
+      213: 21300026
+    second: UITextureDayAtSchool_13
+  - first:
+      213: 21300028
+    second: UITextureDayAtSchool_14
+  - first:
+      213: 21300030
+    second: UITextureDayAtSchool_15
+  - first:
+      213: 21300032
+    second: UITextureDayAtSchool_16
+  - first:
+      213: 21300034
+    second: UITextureDayAtSchool_17
+  - first:
+      213: 21300036
+    second: UITextureDayAtSchool_18
+  - first:
+      213: 21300038
+    second: UITextureDayAtSchool_19
+  - first:
+      213: 21300040
+    second: UITextureDayAtSchool_20
+  - first:
+      213: 21300042
+    second: UITextureDayAtSchool_21
+  - first:
+      213: 21300044
+    second: UITextureDayAtSchool_22
+  - first:
+      213: 21300046
+    second: UITextureDayAtSchool_23
+  - first:
+      213: 21300048
+    second: UITextureDayAtSchool_24
+  - first:
+      213: 21300050
+    second: UITextureDayAtSchool_25
+  - first:
+      213: 21300052
+    second: UITextureDayAtSchool_26
+  - first:
+      213: 21300054
+    second: UITextureDayAtSchool_27
+  - first:
+      213: 21300056
+    second: UITextureDayAtSchool_28
+  - first:
+      213: 21300058
+    second: UITextureDayAtSchool_29
+  - first:
+      213: 21300060
+    second: UITextureDayAtSchool_30
+  - first:
+      213: 21300062
+    second: UITextureDayAtSchool_31
+  - first:
+      213: 21300064
+    second: UITextureDayAtSchool_32
+  - first:
+      213: 21300066
+    second: UITextureDayAtSchool_33
+  - first:
+      213: 21300068
+    second: UITextureDayAtSchool_34
+  - first:
+      213: 21300070
+    second: UITextureDayAtSchool_35
+  - first:
+      213: 21300072
+    second: UITextureDayAtSchool_36
+  - first:
+      213: 21300074
+    second: UITextureDayAtSchool_37
+  - first:
+      213: 21300076
+    second: UITextureDayAtSchool_38
+  - first:
+      213: 21300078
+    second: UITextureDayAtSchool_39
+  - first:
+      213: 21300080
+    second: UITextureDayAtSchool_40
+  - first:
+      213: 21300082
+    second: UITextureDayAtSchool_41
+  - first:
+      213: 21300084
+    second: UITextureDayAtSchool_42
+  - first:
+      213: 21300086
+    second: UITextureDayAtSchool_43
+  - first:
+      213: 21300088
+    second: UITextureDayAtSchool_44
+  - first:
+      213: 21300090
+    second: UITextureDayAtSchool_45
+  - first:
+      213: 21300092
+    second: UITextureDayAtSchool_46
+  - first:
+      213: 21300094
+    second: UITextureDayAtSchool_47
+  - first:
+      213: 21300096
+    second: UITextureDayAtSchool_48
+  - first:
+      213: 21300098
+    second: UITextureDayAtSchool_49
+  - first:
+      213: 21300100
+    second: UITextureDayAtSchool_50
+  - first:
+      213: 21300102
+    second: UITextureDayAtSchool_51
+  - first:
+      213: 21300104
+    second: UITextureDayAtSchool_52
+  - first:
+      213: 21300106
+    second: UITextureDayAtSchool_53
+  - first:
+      213: 21300108
+    second: UITextureDayAtSchool_54
+  - first:
+      213: 21300110
+    second: UITextureDayAtSchool_55
+  - first:
+      213: 21300112
+    second: UITextureDayAtSchool_56
+  - first:
+      213: 21300114
+    second: UITextureDayAtSchool_57
+  - first:
+      213: 21300116
+    second: UITextureDayAtSchool_58
+  - first:
+      213: 21300118
+    second: UITextureDayAtSchool_59
+  - first:
+      213: 21300120
+    second: UITextureDayAtSchool_60
+  - first:
+      213: 21300122
+    second: UITextureDayAtSchool_61
+  - first:
+      213: 21300124
+    second: UITextureDayAtSchool_62
+  - first:
+      213: 21300126
+    second: UITextureDayAtSchool_63
+  - first:
+      213: 21300128
+    second: UITextureDayAtSchool_64
+  - first:
+      213: 21300130
+    second: UITextureDayAtSchool_65
+  - first:
+      213: 21300132
+    second: UITextureDayAtSchool_66
+  - first:
+      213: 21300134
+    second: UITextureDayAtSchool_67
+  - first:
+      213: 21300136
+    second: UITextureDayAtSchool_68
+  - first:
+      213: 21300138
+    second: UITextureDayAtSchool_69
+  - first:
+      213: 21300140
+    second: UITextureDayAtSchool_70
+  - first:
+      213: 21300142
+    second: UITextureDayAtSchool_71
+  - first:
+      213: 21300144
+    second: UITextureDayAtSchool_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 528
+        width: 491
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 206, y: 207, z: 206, w: 207}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145d0861a9fd3da4db6a8b4ef82c3ed1
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 972
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd98145227e90c45b3e573bac11ac3f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 974
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de52819eeda811649b80cc130b1235f1
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 963
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df7125d8d9c5a64f99df7e7c3b08463
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 957
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b696d95781c24489160a1ce8ecec87
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 914
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba487f31954ed8a449f039afb9667ef1
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 952
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c58941a624ff841a4d44512ac7ee27
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_7
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 944
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8f05368a6d5214b9c76ac8a6c49440
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_8
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 949
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6769f08122dc1cc4a858a35bbd53035a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_9
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 949
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fb0c8ef24b54c49b11c224e552990d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_10
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 949
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c22734859ece945a90d9657702e745
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_11
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 936
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f6833bac9bfa43a503cc3859c47e3
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_12
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 855
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edfaf948ac6b814e9122ff281b14309
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_13
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 873
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8680042d3f897d2408a843b332d9ff4d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_14
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 872
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b1caa044b8d2b459a83343ed99e298
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_15
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 872
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f437fc6f0d7e64589ae86aa8e9e738
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 877
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079a69ed97cf2854ab8462479a3466c7
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_17
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 876
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a77be36a27ae1f4d958a1b2d342c0a2
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 855
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d9133d260624740944b076f405b53d
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 829
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0606c7f42144a4bb264d9983527c7e
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 788
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de11265abf408a49915498a29c384df
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 780
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd154a43ded0ba48a438bc5cc0d6b8d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_22
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 777
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49d5691cc542fa4eb517f66e59e455e
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_23
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 772
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8990e27457906914d9d97fc9426b1972
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_24
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 786
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7cb473101fc2d4f893f0944c33460e
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 675
+        width: 500
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 233, y: 0, z: 233, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fdfad648d946449b1d5a0ff43b4b18
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_26
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 618
+        width: 125
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b428b3c2a0fe643a92ca6d5a308ffb
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_27
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 565
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c014def7a04e1db4d9c5fd5a6e9fd6cf
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_28
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 659
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94189cf1a7e48c346b9bb3f231ab5a7d
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_29
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 567
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 38, y: 36, z: 38, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa39b3c503740546889ce1b1defde97
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_30
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 575
+        width: 17
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e348f603626c5984894d706a2c67163b
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_31
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 533
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662fab48886beb34eb0564a125e404d1
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_32
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 533
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecfeab55eeb47f4488ddb934d8795f1
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_33
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 520
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7542060c87ef74f448288c0ae8204410
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 427
+        width: 540
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 247, y: 39, z: 247, w: 35}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e07f3307da4c394b8dfdea4350c1322
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 150
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 65, y: 0, z: 65, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43028ff842edca4487e6b708702219d
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 332
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d130f592a6221643bf372a7bd00be0e
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_37
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 332
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61dadbc57b64de4faf31fc7a9777d24
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_38
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 338
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a96f026178f1741804c323ee9401e3
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 334
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca1d11984647c40b9d52b3a9df07b9
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 359
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7c552a97ae8184a800af1f01b9997b
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_41
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 305
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1258624e58394c9d5027d1a99280c
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 240
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eb12a07a309664aadbd048c5be19d2
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 236
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bcd8a3f01d95848b446b907df17367
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 218
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00fc1d08d827884fadfec8bb27073c7
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_45
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 229
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4f6e37c8e035e40a934b7b924e2a77
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 263
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa3f4329aa61e4580e60e54c508986
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 275
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9462bc6425a04592b0a74dc48693e
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 220
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac27bea883c405347a587e8ac85df356
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010fcf31466c23d489900ae625cbe8df
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 125
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2add915d04c0b4fbe9097711ccca18
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 97
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ca062e4e8284845bb6cbc68d1cae77
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_52
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 5
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4480804e77f4f64da38277ec91dab32
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 166
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 68, y: 43, z: 66, w: 44}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10328c2c38546648b5778ced8c26fc3
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4
+        width: 183
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 77, y: 73, z: 76, w: 73}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32756f05564bccb40ba30d3408f7ea6a
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_55
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 139
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 6, z: 3, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5139a88b587f2614fbce4b521c33e249
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_56
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 69
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52715dd0e29eac946822a700d1abaff5
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_57
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3
+        width: 352
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e779387fa94f4eb55c0df873bf610
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_58
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 111
+        width: 251
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf11ce8a6275064419cf779f57e0d292
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_59
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 74
+        width: 247
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603cbfe1ec55ef542aba4d4bdba94e9f
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_60
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 190
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25b7806fa5b0af4c96a8eae0fdc0380
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 178
+        width: 324
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90f1150335a620468788cdb823a6fc1
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_62
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 316
+        width: 192
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81098b325b33a014293ffe505d9d8a2e
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_63
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 116
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5e99b83c066aa41b1d21cade133476
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_64
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74efefdbe55b4f6448fa8ec78d8b4743
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_65
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 221
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c3b4c86d6fdd448b7ba6e22d6c5039
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_66
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 212
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c2046a26330eb4396750310b297559
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_67
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 68
+        width: 150
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 63, y: 17, z: 64, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e100c9a6c9318f4498350602dd4d176
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_68
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 774
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebe88fc54594be429fe0e6cc42f5ca1
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_69
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 457
+        width: 153
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e22dad234274b4baf0a6672a2959f0
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_70
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 439
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a14e1c5c554dd4db45288bd3cc4f25
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_71
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5426297fcd9264684d85bb4c7f795c
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UITextureDayAtSchool_72
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 300
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15125aae9fc43b84192ab0ada6860917
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

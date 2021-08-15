@@ -1,0 +1,1616 @@
+fileFormatVersion: 2
+guid: c9fcd50bcaa25a04c81a80d113f86f9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CharacterDentist1_0
+  - first:
+      213: 21300002
+    second: CharacterDentist1_1
+  - first:
+      213: 21300004
+    second: CharacterDentist1_2
+  - first:
+      213: 21300006
+    second: CharacterDentist1_3
+  - first:
+      213: 21300008
+    second: CharacterDentist1_4
+  - first:
+      213: 21300010
+    second: CharacterDentist1_5
+  - first:
+      213: 21300012
+    second: CharacterDentist1_6
+  - first:
+      213: 21300014
+    second: CharacterDentist1_7
+  - first:
+      213: 21300016
+    second: CharacterDentist1_8
+  - first:
+      213: 21300018
+    second: CharacterDentist1_9
+  - first:
+      213: 21300020
+    second: CharacterDentist1_10
+  - first:
+      213: 21300022
+    second: CharacterDentist1_11
+  - first:
+      213: 21300024
+    second: CharacterDentist1_12
+  - first:
+      213: 21300026
+    second: CharacterDentist1_13
+  - first:
+      213: 21300028
+    second: CharacterDentist1_14
+  - first:
+      213: 21300030
+    second: CharacterDentist1_15
+  - first:
+      213: 21300032
+    second: CharacterDentist1_16
+  - first:
+      213: 21300034
+    second: CharacterDentist1_17
+  - first:
+      213: 21300036
+    second: CharacterDentist1_18
+  - first:
+      213: 21300038
+    second: CharacterDentist1_19
+  - first:
+      213: 21300040
+    second: CharacterDentist1_20
+  - first:
+      213: 21300042
+    second: CharacterDentist1_21
+  - first:
+      213: 21300044
+    second: CharacterDentist1_22
+  - first:
+      213: 21300046
+    second: CharacterDentist1_23
+  - first:
+      213: 21300048
+    second: CharacterDentist1_24
+  - first:
+      213: 21300050
+    second: CharacterDentist1_25
+  - first:
+      213: 21300052
+    second: CharacterDentist1_26
+  - first:
+      213: 21300054
+    second: CharacterDentist1_27
+  - first:
+      213: 21300056
+    second: CharacterDentist1_28
+  - first:
+      213: 21300058
+    second: CharacterDentist1_29
+  - first:
+      213: 21300060
+    second: CharacterDentist1_30
+  - first:
+      213: 21300062
+    second: CharacterDentist1_31
+  - first:
+      213: 21300064
+    second: CharacterDentist1_33
+  - first:
+      213: 21300066
+    second: CharacterDentist1_34
+  - first:
+      213: 21300068
+    second: CharacterDentist1_36
+  - first:
+      213: 21300070
+    second: CharacterDentist1_37
+  - first:
+      213: 21300072
+    second: CharacterDentist1_38
+  - first:
+      213: 21300074
+    second: CharacterDentist1_40
+  - first:
+      213: 21300076
+    second: CharacterDentist1_41
+  - first:
+      213: 21300078
+    second: CharacterDentist1_42
+  - first:
+      213: 21300080
+    second: CharacterDentist1_43
+  - first:
+      213: 21300082
+    second: CharacterDentist1_44
+  - first:
+      213: 21300084
+    second: CharacterDentist1_45
+  - first:
+      213: 21300086
+    second: CharacterDentist1_46
+  - first:
+      213: 21300088
+    second: CharacterDentist1_49
+  - first:
+      213: 21300090
+    second: CharacterDentist1_50
+  - first:
+      213: 21300092
+    second: CharacterDentist1_46
+  - first:
+      213: 21300094
+    second: CharacterDentist1_47
+  - first:
+      213: 21300096
+    second: CharacterDentist1_48
+  - first:
+      213: 21300098
+    second: CharacterDentist1_49
+  - first:
+      213: 21300100
+    second: CharacterDentist1_50
+  - first:
+      213: 21300102
+    second: CharacterDentist1_32
+  - first:
+      213: 21300104
+    second: CharacterDentist1_35
+  - first:
+      213: 21300106
+    second: CharacterDentist1_39
+  - first:
+      213: 21300108
+    second: CharacterDentist_0
+  - first:
+      213: 21300110
+    second: CharacterEyeDoctor2_0
+  - first:
+      213: 21300112
+    second: CharacterEyeDoctor2_1
+  - first:
+      213: 21300114
+    second: CharacterEyeDoctor2_2
+  - first:
+      213: 21300116
+    second: CharacterEyeDoctor2_3
+  - first:
+      213: 21300118
+    second: CharacterEyeDoctor2_4
+  - first:
+      213: 21300120
+    second: CharacterEyeDoctor2_5
+  - first:
+      213: 21300122
+    second: CharacterEyeDoctor2_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterDentist1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 555
+        width: 401
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861f516f98cbeb84ebba1e99a6d17265
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 848
+        width: 288
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb90d3014679e3d4cb0a202bfd13e106
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 959
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0015687114cf31e44aef35ca962aa1c4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_3
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 936
+        width: 230
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079bfbfea978c704194245b4ead4b552
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_4
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 856
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296c7b62863d8da47a16662ab866125b
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 863
+        width: 222
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5723493ec8ff174e83be24db63fd90c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 790
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234b3f6e63dcda046b92407b4554ad61
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 790
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c6a0c769aa02b42881c93be695d110
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 779
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1864b12c32b1c7498e38a07449e9350
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 777
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6f621744b7cb945a2147b1dd465681
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_10
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 783
+        width: 115
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eddcc6bf87d9840bf25db602f7789e
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_11
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 789
+        width: 174
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5e552f2efe19644bf1d33bc67aa298
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_12
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 786
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e2a1231218d864a9eb058858de92a0
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 719
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfef81aa252f9594d890a33770ebb84a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 708
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a5695379b5d546b4aa6953000839f
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_15
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 704
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f101fed720017754bb60d64b2ffb2f03
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 700
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05eebca9893b5a43855ba05c516f7bc
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_17
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 741
+        width: 92
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba141777ea84be44083dcd7f3893a243
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_18
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 699
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1cc993398d19d49814442ed208e120
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_19
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 701
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bc33b288a329f49b24adf4d788378a
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 700
+        width: 102
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf814c4a9853740a33bdcf12287901
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 91
+        width: 369
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94414c3e05cd41d46ac29e85434cc3f2
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 236
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed332954afd3266488dedde68ca6c67a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 239
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c4a7586be61ac419938cf8b9e1501f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 152
+        width: 96
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253956f7865bd3b4ab327b62817710b8
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_25
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 208
+        width: 62
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d23b08999fafff4e907e6562de78027
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_26
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 283
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f9a606311d9cd4cabd52a33a7d2026
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_27
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 144
+        width: 111
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f13a9aa3fc71f44ab006233d25387cf
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_28
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 197
+        width: 51
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ead6d9ffd17cd4f89f661f37d7c88e
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_29
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 215
+        width: 39
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f023a5c647b7b489fbc3d6edafe0a6
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_30
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 159
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111b82bef9abe4340a6055c933512196
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 157
+        width: 146
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8541f7e6a8708f94b80cb456b30a69be
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_33
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 78
+        width: 37
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f9e31ad73073a4399f42ff229142a1
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_34
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 169
+        width: 39
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ca40e7338061849a38660db62f9976
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_36
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 88
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3763b57e45469ec42892082caa07ac90
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_37
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 94
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514e6c7b73226024e85f95aa89e353fc
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 78
+        width: 143
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205e918f04b8b714a82b45941a09e475
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_40
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 76
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d88939031c08324695b2f7c5ddcb489
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_41
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 46
+        width: 35
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02fe87bf72fac4e925134352f34278
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_42
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 52
+        width: 114
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de48f498d8b64849b709872de02df56
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eb3a54b3398a341addd92402c1e29c
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 22
+        width: 139
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbe8f41efa9e3a4b8232b856edd6ea0
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_45
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 19
+        width: 139
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa93f9bb184389c4caa2394c8a2f1800
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_46
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2
+        width: 141
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e286d4e749180d48a9abf88017cb96b
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_49
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 13
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8139f92b357465428b3e11d83925c4e
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_50
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 10
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3d443b5d7105f4994318420b5a3c69
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_46
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d74ab76fdd46e24d9690daaf0562c89
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 348
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f356ac96a8c79264494bcfad8a042e57
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_48
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 748
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eb3ab84349cbf49b72503be765a839
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_49
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 752
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28eccbc49437bc4da262cd2b180434c
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_50
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 337
+        width: 179
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e9ef6ef2f2734990ee131ca7c34e0
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_32
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 356
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dd026f4c5c3ca4a801e759f6d85fa3
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 372
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8367f2ef0b39cb347a6fdf0dfed86925
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist1_39
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 341
+        width: 108
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac982b39763de42a0d81c4a7cedb80
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterDentist_0
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 526
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19d8d976cf6edd47a7c1db9a6e24e2d
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterEyeDoctor2_0
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 501
+        width: 118
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60362c4d48a7a5144a3dae6c1d9f4382
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterEyeDoctor2_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 599
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86481912cd54e6418802d2b3ed85c20
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterEyeDoctor2_2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 581
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8295b360ceb264e9fa48ac51b2d283
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterEyeDoctor2_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 499
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1ce2c72aaf3d140b0344d2ab89e276
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterEyeDoctor2_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 568
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75f823cd248a8a42af3bde42f23f982
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterEyeDoctor2_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 541
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f5254012128314eb847de9704619ee
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterEyeDoctor2_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 498
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed5eed504eefe47b6c87334af93d74
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

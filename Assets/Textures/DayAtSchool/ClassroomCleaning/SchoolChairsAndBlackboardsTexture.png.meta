@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: eb9c8c1ad8e87a0478e3264b0a04a404
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SchoolChairsAndBlackboardsTexture_0
+  - first:
+      213: 21300002
+    second: SchoolChairsAndBlackboardsTexture_1
+  - first:
+      213: 21300004
+    second: SchoolChairsAndBlackboardsTexture_2
+  - first:
+      213: 21300006
+    second: SchoolChairsAndBlackboardsTexture_3
+  - first:
+      213: 21300008
+    second: SchoolChairsAndBlackboardsTexture_4
+  - first:
+      213: 21300010
+    second: SchoolChairsAndBlackboardsTexture_5
+  - first:
+      213: 21300012
+    second: SchoolChairsAndBlackboardsTexture_6
+  - first:
+      213: 21300014
+    second: SchoolChairsAndBlackboardsTexture_7
+  - first:
+      213: 21300016
+    second: SchoolChairsAndBlackboardsTexture_8
+  - first:
+      213: 21300018
+    second: SchoolChairsAndBlackboardsTexture_9
+  - first:
+      213: 21300020
+    second: SchoolChairsAndBlackboardsTexture_10
+  - first:
+      213: 21300022
+    second: SchoolChairsAndBlackboardsTexture_11
+  - first:
+      213: 21300024
+    second: SchoolChairsAndBlackboardsTexture_12
+  - first:
+      213: 21300026
+    second: SchoolChairsAndBlackboardsTexture_13
+  - first:
+      213: 21300028
+    second: SchoolChairsAndBlackboardsTexture_14
+  - first:
+      213: 21300030
+    second: SchoolChairsAndBlackboardsTexture_15
+  - first:
+      213: 21300032
+    second: SchoolChairsAndBlackboardsTexture_16
+  - first:
+      213: 21300034
+    second: SchoolChairsAndBlackboardsTexture_17
+  - first:
+      213: 21300036
+    second: SchoolChairsAndBlackboardsTexture_18
+  - first:
+      213: 21300038
+    second: SchoolChairsAndBlackboardsTexture_19
+  - first:
+      213: 21300040
+    second: SchoolChairsAndBlackboardsTexture_20
+  - first:
+      213: 21300042
+    second: SchoolChairsAndBlackboardsTexture_21
+  - first:
+      213: 21300044
+    second: SchoolChairsAndBlackboardsTexture_22
+  - first:
+      213: 21300046
+    second: SchoolChairsAndBlackboardsTexture_23
+  - first:
+      213: 21300048
+    second: SchoolChairsAndBlackboardsTexture_24
+  - first:
+      213: 21300050
+    second: SchoolChairsAndBlackboardsTexture_25
+  - first:
+      213: 21300052
+    second: SchoolChairsAndBlackboardsTexture_26
+  - first:
+      213: 21300054
+    second: SchoolChairsAndBlackboardsTexture_27
+  - first:
+      213: 21300056
+    second: SchoolChairsAndBlackboardsTexture_28
+  - first:
+      213: 21300058
+    second: SchoolChairsAndBlackboardsTexture_29
+  - first:
+      213: 21300060
+    second: SchoolChairsAndBlackboardsTexture_30
+  - first:
+      213: 21300062
+    second: SchoolChairsAndBlackboardsTexture_31
+  - first:
+      213: 21300064
+    second: SchoolChairsAndBlackboardsTexture_32
+  - first:
+      213: 21300066
+    second: SchoolChairsAndBlackboardsTexture_33
+  - first:
+      213: 21300068
+    second: SchoolChairsAndBlackboardsTexture_34
+  - first:
+      213: 21300070
+    second: SchoolChairsAndBlackboardsTexture_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 868
+        width: 102
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f77b642813374e9cdcd39d72af69e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 864
+        width: 96
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d827a1c751d1c4a95f184bbac5c23a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 864
+        width: 94
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a901d3c39b772fe4586a471ce7f93226
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 865
+        width: 103
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5697a978cb757f4ea5f8844db200d30
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 912
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f79c4293e5db14698974cc15674850
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 908
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167f0674344ca024c9d9ff7f403258a0
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 906
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc950f4648a656499b6e782e227b423
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_7
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 848
+        width: 288
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a3d8786b6835544ad9f2adf99a8965
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 702
+        width: 104
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea349f85abc85349befc196b0d3c4f4
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 700
+        width: 95
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e264860f960a0f148b01e96df94181d7
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 700
+        width: 93
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8812eb0721433124ca7f2cc18c5d8c93
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 699
+        width: 103
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282c24407e406443bae279e8f73cba2
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 821
+        width: 142
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945d686818b01ab4cb35c82e2bcdc097
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_13
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 804
+        width: 129
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e99ad05a09733f488aa2798a69488a0
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_14
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 677
+        width: 287
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa5da57c8fba3647bca90dcae573a19
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 720
+        width: 227
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aef1e7d00e22fb43897ad19f0f7c9f6
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 552
+        width: 103
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0e1ada858d25445ac71e17bffd0cc6
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 547
+        width: 93
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1351f9aab5c6ba4689c52c25bbccece
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 547
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c06100aad74445b49ec1aed7eeb9c
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 548
+        width: 102
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3604fe5f665b3429ac9ba4d1f658b6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_20
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 506
+        width: 288
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f80c985d0b9da4d97f16845830288a
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 396
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d952e54bc098648a0ccae128987839
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 392
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89038ac667b118f46ad7e49e8c98002a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 392
+        width: 96
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01714209e7f47f041ac86ce5ebe06e37
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 396
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c206bb4de912447be370fe6ea6ee95
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_25
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 340
+        width: 288
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cf324d6aa6cd047ad048ed5527861d
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 232
+        width: 104
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97c6b07a1fb9af4ba6c6a0283d546df
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 230
+        width: 94
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85803cf70adc16b4f97d45b74e43ea24
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 230
+        width: 94
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaf4ef8fc3f5d94e819c8ff8ecad150
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_29
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 229
+        width: 103
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b25c80e6573340bd53c2320c2139e
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_30
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 173
+        width: 287
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7fdb66dd8fe9e439cb1136df7ea344
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 71
+        width: 102
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06924a6eae50b194eb5f702e14a45b6a
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 69
+        width: 95
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e515d327fcfcc864a9406fe312b3e3a1
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 68
+        width: 95
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5976122a4e7de954baa96e9fd622647c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 68
+        width: 102
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8493c45a27d1e244a8d9200da872e5bd
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolChairsAndBlackboardsTexture_35
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 4
+        width: 288
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d2c649fb17c5e4c915c281ab56592f
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

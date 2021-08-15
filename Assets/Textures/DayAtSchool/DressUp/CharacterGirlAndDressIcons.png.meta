@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: f592edd9ef319af43b4cfdde4d21e28a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CharacterGirlAndDressIcons_0
+  - first:
+      213: 21300002
+    second: CharacterGirlAndDressIcons_1
+  - first:
+      213: 21300004
+    second: CharacterGirlAndDressIcons_2
+  - first:
+      213: 21300006
+    second: CharacterGirlAndDressIcons_3
+  - first:
+      213: 21300008
+    second: CharacterGirlAndDressIcons_4
+  - first:
+      213: 21300010
+    second: CharacterGirlAndDressIcons_5
+  - first:
+      213: 21300012
+    second: CharacterGirlAndDressIcons_6
+  - first:
+      213: 21300014
+    second: CharacterGirlAndDressIcons_7
+  - first:
+      213: 21300016
+    second: CharacterGirlAndDressIcons_8
+  - first:
+      213: 21300018
+    second: CharacterGirlAndDressIcons_9
+  - first:
+      213: 21300020
+    second: CharacterGirlAndDressIcons_10
+  - first:
+      213: 21300022
+    second: CharacterGirlAndDressIcons_12
+  - first:
+      213: 21300024
+    second: CharacterGirlAndDressIcons_13
+  - first:
+      213: 21300026
+    second: CharacterGirlAndDressIcons_14
+  - first:
+      213: 21300028
+    second: CharacterGirlAndDressIcons_15
+  - first:
+      213: 21300030
+    second: CharacterGirlAndDressIcons_16
+  - first:
+      213: 21300032
+    second: CharacterGirlAndDressIcons_17
+  - first:
+      213: 21300034
+    second: CharacterGirlAndDressIcons_18
+  - first:
+      213: 21300036
+    second: CharacterGirlAndDressIcons_19
+  - first:
+      213: 21300038
+    second: CharacterGirlAndDressIcons_20
+  - first:
+      213: 21300040
+    second: CharacterGirlAndDressIcons_21
+  - first:
+      213: 21300042
+    second: CharacterGirlAndDressIcons_22
+  - first:
+      213: 21300044
+    second: CharacterGirlAndDressIcons_23
+  - first:
+      213: 21300046
+    second: CharacterGirlAndDressIcons_24
+  - first:
+      213: 21300048
+    second: CharacterGirlAndDressIcons_25
+  - first:
+      213: 21300050
+    second: CharacterGirlAndDressIcons_26
+  - first:
+      213: 21300052
+    second: CharacterGirlAndDressIcons_27
+  - first:
+      213: 21300054
+    second: CharacterGirlAndDressIcons_29
+  - first:
+      213: 21300056
+    second: CharacterGirlAndDressIcons_30
+  - first:
+      213: 21300058
+    second: CharacterGirlAndDressIcons_31
+  - first:
+      213: 21300060
+    second: CharacterGirlAndDressIcons_32
+  - first:
+      213: 21300062
+    second: CharacterGirlAndDressIcons_33
+  - first:
+      213: 21300064
+    second: CharacterGirlAndDressIcons_34
+  - first:
+      213: 21300066
+    second: CharacterGirlAndDressIcons_35
+  - first:
+      213: 21300068
+    second: CharacterGirlAndDressIcons_36
+  - first:
+      213: 21300070
+    second: CharacterGirlAndDressIcons_37
+  - first:
+      213: 21300072
+    second: CharacterGirlAndDressIcons_38
+  - first:
+      213: 21300074
+    second: CharacterGirlAndDressIcons_39
+  - first:
+      213: 21300076
+    second: CharacterGirlAndDressIcons_40
+  - first:
+      213: 21300078
+    second: CharacterGirlAndDressIcons_41
+  - first:
+      213: 21300080
+    second: CharacterGirlAndDressIcons_42
+  - first:
+      213: 21300082
+    second: CharacterGirlAndDressIcons_43
+  - first:
+      213: 21300084
+    second: CharacterGirlAndDressIcons_44
+  - first:
+      213: 21300086
+    second: CharacterGirlAndDressIcons_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 118
+        width: 327
+        height: 812
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf64d98976721418bf216451c0bc6c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 932
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77092a76911fbe4a8bd8372de065feb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 925
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d3853c50168a94ca9b2c4db840fc51
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_3
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 933
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b057dd440ac01a468ac16cc0e12fdee
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_4
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 933
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89584375d929bdf4e99a6b1001a9a8e2
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_5
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 933
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556d940b4cb97ed46a2fba9f6d42d99b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_6
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 933
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0b10e5fcb17e249867391951ae1ab0
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 933
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71268a50dfb43f741936e6e1c1e6f16c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 850
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f229b7b386e3a434f9af5cc4ba6fc667
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 851
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7796135adf509b4fad1675916c9702c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_10
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 842
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a8b51f6709604c87e2f21edfd48bc
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 820
+        width: 76
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2647c7b5edf052c44b46aaaf90b2328f
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 862
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9525732b6ad27249a0991e9d337754d
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_14
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 875
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839080afebfbf64e94db2c078579631
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_15
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 862
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f34bebf7892494794f7219e99a2ae2
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 795
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e9baa329e7aa843a28b6d75ad09959
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_17
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 802
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a956b7b08ff07840bb4bc08c9a5332b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_18
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 810
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126297507eb8b334a89867e3396bf10c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_19
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 739
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69689738be9fbfb47b7ba0a0a57fc6a1
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 666
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bda05cdbd38ab4bb2e956f2912a6f7
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_21
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 666
+        width: 99
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea84dbd2e82658b48bf8cef8919d8fc6
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_22
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 659
+        width: 97
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18676d714e3a10643886b8ceb714e33d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_23
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 666
+        width: 99
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d6bd2a5916b0646b8c2c62b82cb6da
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 676
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad5a8035dabd8498fa38f169d16c48
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_25
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 624
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f47b2550f181349bd5b7e324d3ad44
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_26
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 580
+        width: 153
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca3762ecf921e84cab115ab31bef2bf
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_27
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 509
+        width: 119
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b929571dfbca1946bb86431ba1a3a4f
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_29
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 574
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab334753f916cc64f815bd09c4a387bc
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_30
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 512
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b1934b72b5db04f9b3db1a452729db
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_31
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 515
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea728092b16e9254c8f3f6d84d8c37a0
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_32
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 501
+        width: 153
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa8027f5cddec347a3f5621b0af4268
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_33
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 529
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532a33ca79fcca540b8b732efab4bb39
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_34
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 453
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678ed0c15642ba14284c6b89f9cddfd0
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_35
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 413
+        width: 131
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283bc09948dde41429e8e37774accdc0
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_36
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 413
+        width: 131
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed4835c40effcf49ba4cd8a2da64ffe
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_37
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 426
+        width: 102
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ee6c30661e8da409c00e21de4b60bb
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 406
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f383700ca9754a542aca02b6e8403014
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_39
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 330
+        width: 131
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d7a5ae6704b6449b8fa5c18135b87
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_40
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 363
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faf989e18d702147b4ccea9ecd10ea5
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 321
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2449d4d8691ef4a872a9040fa7f997
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_42
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 3
+        width: 167
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d1018cf6e8bf4d9c7fd61b84c0fc8
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_43
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2
+        width: 144
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a2b892f10a7e344955cf2e9f6e11dd
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_44
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24289a63730694a4795f401d33e7eb97
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterGirlAndDressIcons_45
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1
+        width: 143
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa7a595d19eb84d837fb72423e8c2c
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

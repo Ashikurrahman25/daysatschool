@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: 7011a52ecfc375342a21f1074f3f7d88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CharacterBoyAndDressIcons_0
+  - first:
+      213: 21300002
+    second: CharacterBoyAndDressIcons_1
+  - first:
+      213: 21300004
+    second: CharacterBoyAndDressIcons_2
+  - first:
+      213: 21300006
+    second: CharacterBoyAndDressIcons_3
+  - first:
+      213: 21300008
+    second: CharacterBoyAndDressIcons_4
+  - first:
+      213: 21300010
+    second: CharacterBoyAndDressIcons_5
+  - first:
+      213: 21300012
+    second: CharacterBoyAndDressIcons_6
+  - first:
+      213: 21300014
+    second: CharacterBoyAndDressIcons_7
+  - first:
+      213: 21300016
+    second: CharacterBoyAndDressIcons_8
+  - first:
+      213: 21300018
+    second: CharacterBoyAndDressIcons_9
+  - first:
+      213: 21300020
+    second: CharacterBoyAndDressIcons_10
+  - first:
+      213: 21300022
+    second: CharacterBoyAndDressIcons_11
+  - first:
+      213: 21300024
+    second: CharacterBoyAndDressIcons_12
+  - first:
+      213: 21300026
+    second: CharacterBoyAndDressIcons_13
+  - first:
+      213: 21300028
+    second: CharacterBoyAndDressIcons_14
+  - first:
+      213: 21300030
+    second: CharacterBoyAndDressIcons_15
+  - first:
+      213: 21300032
+    second: CharacterBoyAndDressIcons_16
+  - first:
+      213: 21300034
+    second: CharacterBoyAndDressIcons_17
+  - first:
+      213: 21300036
+    second: CharacterBoyAndDressIcons_18
+  - first:
+      213: 21300038
+    second: CharacterBoyAndDressIcons_19
+  - first:
+      213: 21300040
+    second: CharacterBoyAndDressIcons_20
+  - first:
+      213: 21300042
+    second: CharacterBoyAndDressIcons_21
+  - first:
+      213: 21300044
+    second: CharacterBoyAndDressIcons_22
+  - first:
+      213: 21300046
+    second: CharacterBoyAndDressIcons_23
+  - first:
+      213: 21300048
+    second: CharacterBoyAndDressIcons_24
+  - first:
+      213: 21300050
+    second: CharacterBoyAndDressIcons_25
+  - first:
+      213: 21300052
+    second: CharacterBoyAndDressIcons_26
+  - first:
+      213: 21300054
+    second: CharacterBoyAndDressIcons_27
+  - first:
+      213: 21300056
+    second: CharacterBoyAndDressIcons_28
+  - first:
+      213: 21300058
+    second: CharacterBoyAndDressIcons_29
+  - first:
+      213: 21300060
+    second: CharacterBoyAndDressIcons_30
+  - first:
+      213: 21300062
+    second: CharacterBoyAndDressIcons_31
+  - first:
+      213: 21300064
+    second: CharacterBoyAndDressIcons_32
+  - first:
+      213: 21300066
+    second: CharacterBoyAndDressIcons_33
+  - first:
+      213: 21300068
+    second: CharacterBoyAndDressIcons_34
+  - first:
+      213: 21300070
+    second: CharacterBoyAndDressIcons_35
+  - first:
+      213: 21300072
+    second: CharacterBoyAndDressIcons_36
+  - first:
+      213: 21300074
+    second: CharacterBoyAndDressIcons_37
+  - first:
+      213: 21300076
+    second: CharacterBoyAndDressIcons_38
+  - first:
+      213: 21300078
+    second: CharacterBoyAndDressIcons_39
+  - first:
+      213: 21300080
+    second: CharacterBoyAndDressIcons_40
+  - first:
+      213: 21300082
+    second: CharacterBoyAndDressIcons_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_0
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 921
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa1e5a4a473dc44da2afbda069f5f3e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_1
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 933
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dd29a499f4a48498a431102d5c613d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_2
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 934
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119dd74fe7ca0e4ea3f89585163ad02
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_3
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 934
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e830bd6d92c77034fb8cea733adf16f6
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_4
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 934
+        width: 109
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c0f32327d3a3848971f1ee886d3139
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 133
+        width: 314
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4e50e8dd0b2ce41817d053a0a2810e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_6
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 838
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8489390a2100941bf63ed5281e8bef
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_7
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 852
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311f0b2c20071246868c6010a75b812
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_8
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 839
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd552f3c74ca65c4486844dc50a81c8d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_9
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 838
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adedfa2d77b48d5409a68491b56b624e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 798
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b567fd8fc312942b96b5eac03c5bb2
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_11
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 719
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfbe15302242d9459c5a40e8040889e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 714
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47daacbc6b93984c9838c126b5785da
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 714
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef585123dc57fc418924e969d9dd7a7
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 733
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4f4f3d12c483745ac8ba4ee0eed05b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 672
+        width: 100
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4d59d2b8305b6408fdb3485082422a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_16
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 594
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468d048db87ffcc4baed775d65a7ac98
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_17
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 592
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c6b62b3f9052d4981ece8cc9f0d478
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_18
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 592
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5e81cd83b580d4385f30c7c0a0fbfb
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 622
+        width: 95
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e15b98f7a58164fbc62d2bf79b3c37
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 577
+        width: 95
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491405d3d57054943a098566b1e4573a
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 473
+        width: 141
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e73043b9f8b4a43acda6223d0b31c5
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 473
+        width: 146
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a480456667bcbe40b16a40b7a20d529
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 512
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93743c7cefb2d44ab4e3547292e553
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_24
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 473
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af390aa90a39bc64a968be2cd90f5412
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_25
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 455
+        width: 101
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7cafb5b0440614087ef0d12341b9c8
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_26
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 367
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36792b5ce95db3941940601400ed26a6
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_27
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 369
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e9e4f8e87996b4eb878fc537782db5
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_28
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 367
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03321003b9e05f44183d116b38b6acbe
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 406
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1e149de8988974894733f8f06f59dc
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 366
+        width: 87
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdaef9ee63f6cc4692f1e68dd0febcd
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 328
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d46f283d371ee34b8eb9b2035ee0d8c
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_32
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 288
+        width: 135
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b88a87bc6baa8044acb733fe4b8fec0
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_33
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 288
+        width: 135
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b23a28ebd64bc43b44733028f6784b
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_34
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 292
+        width: 134
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0b818ab2c5b874e95d725fc8f8359b
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_35
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 210
+        width: 136
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7e916b7f235f541bf21bc814503f71
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_36
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 206
+        width: 135
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2595a28aa5cd844b1d60a0cb3cb739
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_37
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 211
+        width: 134
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3307a1e68fb7e6e40a46ff51ca263c7b
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c59b07bbbbb65640b6bc31ccd56b7c8
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 196
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359ddb49d4b08dd45ae5c00c8f1864ff
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_40
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1
+        width: 183
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7fd8cc63ba2094da3cfd0d5ec4c6d8
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterBoyAndDressIcons_41
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553b5f66b1358774f8885d9b19d24150
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
